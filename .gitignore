@@ -1,6 +1,9 @@
 # Mac-specific junk file
 .DS_Store
 
+# files that are too large
+Phase3/11-DecisionTrees.ipynb
+11-DecisionTrees.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
